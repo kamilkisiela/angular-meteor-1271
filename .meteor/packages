@@ -1,0 +1,11 @@
+meteor-base
+mobile-experience
+mongo
+session
+jquery
+tracker
+
+standard-minifiers
+es5-shim
+
+angular
